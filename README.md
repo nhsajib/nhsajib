@@ -26,6 +26,9 @@ Full-stack developer with extensive experience of 3+ years. Hands-on experience 
 
 ![Vue](https://img.shields.io/badge/Vue.js-00c180?style=for-the-badge&logo=vue.js&logoColor=33475f)
 ![Nuxt](https://img.shields.io/badge/Nuxt.js-80eec0?style=for-the-badge&logo=nuxt.js&logoColor=00dc82)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhsajib)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔗 Social Media Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nh-sajib-37548420a)
 [![facebook](https://img.shields.io/badge/facebook-3b579d?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sajib2020)
