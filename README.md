@@ -4,8 +4,6 @@ I'm full-stack developer.
 
 I'm Sayed Nazmul Hussain Sajib (call me by `Sajib` or `NH Sajib`).
 
-![loclv's github stats](https://github-readme-stats.vercel.app/api?username=nhsajib&show_icons=true&theme=bear)
-
 ## ℹ️ About Me
 Full-stack developer with extensive experience of 3+ years. Hands-on experience designing, developing, and implementing web applications as client's requirement. Experience in developing web applications using Laravel, Veu.js
 
